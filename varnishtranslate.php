@@ -106,4 +106,3 @@ function returnVarnishRules($rulesArray, $key, $tablet = false, $useElse = false
 
 }
 
-?>
